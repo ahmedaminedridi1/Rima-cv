@@ -1,11 +1,11 @@
 import './App.css'
-import Nav from './components/Nav'
-import Hero from './components/Hero'
-import Profil from './components/Profil'
-import Experience from './components/Experience'
-import Formation from './components/Formation'
-import Competences from './components/Competences'
-import Contact from './components/Contact'
+import Nav from './components/Nav.jsx'
+import Hero from './components/Hero.jsx'
+import Profil from './components/Profil.jsx'
+import Experience from './components/Experience.jsx'
+import Formation from './components/Formation.jsx'
+import Competences from './components/Competences.jsx'
+import Contact from './components/Contact.jsx'
 
 function App() {
   return (
